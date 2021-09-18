@@ -1,3 +1,4 @@
+# perl generatecodes.pl
 #!/usr/bin/perl
 # generatecodes.pl
 # Version 0.1
