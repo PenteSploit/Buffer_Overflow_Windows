@@ -1,4 +1,4 @@
-# python fuzzer_Minishare_1.4.1.py
+# python fuzzer.py
 import socket
 metodo_http = "GET "
 buff = ""
