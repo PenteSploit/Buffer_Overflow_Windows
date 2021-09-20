@@ -7,3 +7,4 @@
 ### Diferenciarse del resto
 ### Ayudar a candidatos a OSCP
 ### Dejar de ser un script kiddie
+https://github.com/PenteSploit/Buffer_Overflow_Windows/blob/main/laboratorio.png
