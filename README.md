@@ -1,8 +1,9 @@
-# Buffer Overflow Windows
+# Buffer Overflow Windows 32
+### Desarrollo de un exploit con Minishare 1.4.1
 
-#### SLMail 5.5
-#### Minishare 1.4.1
-#### Maquina Virtual Windows 7 Proffesional x32 bits
-```
-https://mega.nz/file/j99mWK7Y#Mj39DK8o1EdoGkWp8iSS0irWu6Tyb8tIXwFEPPTtgc0
-```
+# Finalidad
+### Entender como funciona un buffer overflow y un exploit
+### Aprender a desarrollar exploits propios
+### Diferenciarse del resto
+### Ayudar a candidatos a OSCP
+### Dejar de ser un script kiddie
