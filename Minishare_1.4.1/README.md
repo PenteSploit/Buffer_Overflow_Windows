@@ -1,6 +1,10 @@
-# Buffer Overflow Windows 32
+# Buffer Overflow Windows XP x64
 ### Desarrollo de un exploit con Minishare 1.4.1
 
-# Finalidad
-### Entender como funciona un buffer overflow y un exploit
-![alt text](https://github.com/PenteSploit/Buffer_Overflow_Windows/blob/main/laboratorio.png)
+# Laboratorio
+### Kali Linux
+### Python 2.7.1
+### Immunity Debugger - mona.py
+### Minishare 1.4.1
+### Windows XP
+
